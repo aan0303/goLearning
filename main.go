@@ -11,4 +11,5 @@ func main() {
 	fmt.Println(total)
 	fmt.Println("cuba try test")
 	fmt.Println("TRY AGAIN")
+	fmt.Println("bruh")
 }

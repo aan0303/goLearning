@@ -7,9 +7,12 @@ func sum(a int, b int) int {
 }
 
 func main() {
+	var texts = deck{"mom", "drain", "gang"}
+
 	total := sum(2, 3)
+	fmt.Println("Try To Loop")
+
+	print(texts)
+
 	fmt.Println(total)
-	fmt.Println("cuba try test")
-	fmt.Println("TRY AGAIN")
-	fmt.Println("bruh")
 }
